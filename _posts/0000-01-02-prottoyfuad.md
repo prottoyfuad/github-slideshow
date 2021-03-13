@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"These mist covered mountains\nAre a home now for me,\n
-But my home was the lowlands\nAnd always will be..."
+"একটা শীতকাল আর চাদরের মতো গল্পে, তুমি থাকতে এলে বেশিতে বা অল্পে..."
 Use the left arrow to go back!
